@@ -2,7 +2,7 @@ from flask import Flask
 app = Flask(__name__)
 
 
-# Sending SMS
+# Sending an SMS
 # import package
 import africastalking
 
